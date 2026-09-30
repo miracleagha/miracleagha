@@ -14,14 +14,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/aghamiracle">
-    <img src="https://img.shields.io/github/followers/aghamiracle?style=flat-square&label=Followers" alt="GitHub Followers" />
+  <a href="https://github.com/miracleagha">
+    <img src="https://img.shields.io/github/followers/miracleagha?style=flat-square&label=Followers" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/aghamiracle">
-    <img src="https://img.shields.io/github/repos/aghamiracle?style=flat-square&label=Repositories" alt="GitHub Repositories" />
+  <a href="https://github.com/miracleagha">
+    <img src="https://img.shields.io/github/repos/miracleagha?style=flat-square&label=Repositories" alt="GitHub Repositories" />
   </a>
-  <a href="https://github.com/aghamiracle">
-    <img src="https://img.shields.io/github/last-commit/aghamiracle/aghamiracle?style=flat-square&label=Last%20Update" alt="Last Update" />
+  <a href="https://github.com/miracleagha">
+    <img src="https://img.shields.io/github/last-commit/miracleagha/miracleagha?style=flat-square&label=Last%20Update" alt="Last Update" />
   </a>
 </p>
 
