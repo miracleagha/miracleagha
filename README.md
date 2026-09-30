@@ -3,16 +3,28 @@
 <h3 align="center">Software Engineer · Backend | Python & Node.js</h3>
 
 <p align="center">
+  Building backend systems, APIs, AI-powered applications, and full-stack products.
+</p>
+
+<p align="center">
+  <a href="https://github.com/aghamiracle">GitHub</a> •
+  <a href="https://thalvor.onrender.com/">Portfolio</a> •
+  <a href="mailto:aghamiracle123@gmail.com">Email</a>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/aghamiracle">
-    <img src="https://img.shields.io/github/followers/aghamiracle?label=Followers&style=flat" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/aghamiracle?style=flat-square&label=Followers" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/aghamiracle">
-    <img src="https://img.shields.io/github/stars/aghamiracle?label=Stars&style=flat" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/repos/aghamiracle?style=flat-square&label=Repositories" alt="GitHub Repositories" />
   </a>
-  <a href="https://thalvor.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Thalvor-111827?style=flat" alt="Portfolio" />
+  <a href="https://github.com/aghamiracle">
+    <img src="https://img.shields.io/github/last-commit/aghamiracle/aghamiracle?style=flat-square&label=Last%20Update" alt="Last Update" />
   </a>
 </p>
+
 
 ---
 
@@ -142,12 +154,13 @@ A verification system using QR-based identification to improve examination entry
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aghamiracle&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghamiracle&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aghamiracle&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" alt="Miracle's GitHub Statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghamiracle&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" alt="Miracle's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aghamiracle&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=aghamiracle&theme=transparent&hide_border=true" alt="Miracle's GitHub Streak" />
 </p>
 
 ---
